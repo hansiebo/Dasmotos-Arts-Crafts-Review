@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+    background-image: url("./images/pattern.jpeg");
+}
+
+h2 {
+    font-size: 32px;
+    color: white;
+}
+
+span {
+    color: blue;
+}
+
+h2, figcaption, span {
+    font-weight: bold;
+}
+
+/* h2 background color */
+
+#green {
+    background-color: mediumspringgreen;
+}
+
+#coral {
+    background-color: lightcoral;
+}
+
+#blue {
+    background-color: skyblue;
+}
